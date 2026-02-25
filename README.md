@@ -7,3 +7,7 @@
 
 - [Two Sum](Leetcode/Array/1.java)
 - [Median of Two Sorted Arrays](Leetcode/Array/4.java)
+
+### Sorting
+
+- [3 Sum](Leetcode/Sorting/15.java)
