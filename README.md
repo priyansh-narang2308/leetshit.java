@@ -3,6 +3,7 @@
 ### A collection of solved LeetCode, Striver’s SDE Sheet, and NeetCode 150 problems in Java, covering essential DSA patterns and problem-solving techniques.
 
 ## Leetcode
+
 ### Array
 
 - [Two Sum](Leetcode/Array/1.java)
@@ -12,3 +13,7 @@
 
 - [3 Sum](Leetcode/Sorting/15.java)
 - [3 Sum Closest](Leetcode/Sorting/16.java)
+
+### Dynamic Programming
+
+- [Longest Palindromic Substring](Leetcode/Dynamic%20Programming/5.java)
